@@ -1,0 +1,25 @@
+body{
+    
+}
+.titulo{
+    text-align: center;
+    color: blue;
+    background-color: beige;
+}
+.principal{
+    color: brown;
+}
+.text{
+    margin-left: 200px;
+    width: 600px;
+    font-size: 36px;
+}
+.text, .imagendb{
+    align-items: center;
+
+    display: inline-block;
+}
+.imagendb{
+    width: 300px;
+    margin: 20px;
+}
